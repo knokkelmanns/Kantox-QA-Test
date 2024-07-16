@@ -1,5 +1,5 @@
 
-**Requirements review**
+**Requirements review**\
 Before we start creating test cases, we need to analyze the requirements. And there is exist some questions.
 - First rule. Should it apply to one type of product or not? If not, which product should be free? How should we decide 
 which product should be free (cheaper or with higher cost)? If it relates to one type of product, we need to document that.
